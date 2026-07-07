@@ -1,0 +1,2419 @@
+{
+  "siteInfo": {
+    "name": "KDS International Pvt. Ltd.",
+    "tagline": "Most Trusted Manpower Services in Delhi & Staffing Partner",
+    "shortTagline": "Prestigious Manpower Consultancy Services",
+    "description": "KDS International Pvt. Ltd. is a leading and established manpower provider located in Delhi, providing complete manpower solutions across many industries to deliver cost-effective and efficient workforce solutions.",
+    "email": "info@kdsinternational.org",
+    "phone": "+91 9899184918",
+    "address": "D, 105, First Floor, 1/56, Lalita Park, Laxmi Nagar, Delhi, 110092",
+    "city": "Delhi",
+    "country": "India",
+    "established": "2005",
+    "website": "https://www.kdsinternational.org",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/",
+      "twitter": "https://twitter.com/",
+      "facebook": "https://www.facebook.com/"
+    }
+  },
+  "stats": [
+    {
+      "id": 1,
+      "value": "500+",
+      "label": "Workers Placed",
+      "icon": "Users"
+    },
+    {
+      "id": 2,
+      "value": "200+",
+      "label": "Satisfied Clients",
+      "icon": "Award"
+    },
+    {
+      "id": 3,
+      "value": "24-48hr",
+      "label": "Manpower Response",
+      "icon": "Clock"
+    },
+    {
+      "id": 4,
+      "value": "100%",
+      "label": "Compliance Assured",
+      "icon": "Shield"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "slug": "skilled-manpower",
+      "title": "Skilled Manpower Services",
+      "shortDesc": "Expert skilled workforce for specialised industrial roles — fitters, machine operators, technicians and more.",
+      "description": "Our skilled manpower services cover a wide range of specialised industrial roles. We supply trained and experienced fitters, electricians, machine operators, supervisors, and technical staff who meet the highest industry standards. Every worker is vetted, background-checked, and ready to deploy.",
+      "icon": "Wrench",
+      "image": "/skills-arm.png",
+      "features": [
+        "Verified skilled tradespeople and technicians",
+        "Background-screened and reference-checked workers",
+        "Industry-specific trained professionals",
+        "Short-term and long-term placement available"
+      ],
+      "benefits": [
+        "Reduce recruitment time by up to 70%",
+        "No overhead training costs",
+        "Scalable workforce as per demand",
+        "PF/ESIC compliance fully managed"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "The Precision Advantage in Technical Staffing"
+        },
+        {
+          "type": "paragraph",
+          "text": "In today's highly competitive industrial landscape, the quality of your skilled workforce directly correlates with your operational output. At KDS International, we don't just supply workers; we provide precision-matched talent that integrates seamlessly into your production environment."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Skilled Vetting Process",
+          "items": [
+            "Advanced technical skill assessment and practical testing.",
+            "Complete background verification and reference checks.",
+            "Documentation audit (PF, ESIC, and certification validity)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Our fitters, electricians, and machine operators are trained to handle modern industrial equipment with care and efficiency, reducing downtime and maintaining high safety standards across your facility."
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "unskilled-manpower",
+      "title": "Unskilled Manpower Services",
+      "shortDesc": "Reliable general-purpose labour for support, loading, cleaning and routine industrial tasks.",
+      "description": "We supply well-trained, disciplined, and hardworking unskilled workers for general-purpose, labour-intensive processes. From loading and unloading to housekeeping and cleaning support, our unskilled manpower is ready for deployment with a committed attitude towards routine and support activities.",
+      "icon": "Users",
+      "image": "/industry-logistics.png",
+      "features": [
+        "Disciplined and punctual workforce",
+        "Trained in basic safety protocols",
+        "Available for daily or contract basis",
+        "Suitable for any sector"
+      ],
+      "benefits": [
+        "Immediate availability within 24 hours",
+        "Cost-effective workforce solution",
+        "Reduces permanent headcount burden",
+        "Full payroll and compliance support"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Reliable Labor Support for Industrial Continuity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every large-scale operation requires a reliable backbone of general-purpose labor. Our unskilled manpower services are designed to provide you with disciplined, hardworking, and well-managed workers for all your support activities."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Why Our Labor Teams Stand Out",
+          "items": [
+            "Strict adherence to shift timings and workplace discipline.",
+            "Basic safety training provided prior to deployment.",
+            "Rapid mobilization for loading/unloading and seasonal peaks."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We handle the entire administrative burden—from recruitment and onboarding to monthly payroll and compliance—allowing your core team to focus on production and growth."
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "contract-manpower",
+      "title": "Contract Based Manpower",
+      "shortDesc": "Flexible contract staffing solutions — hire the right people for exactly as long as you need them.",
+      "description": "We provide reliable and professional contract-based manpower solutions designed for project-specific or seasonal requirements. Our trained staff ensures seamless integration with your existing teams. Ideal for businesses that need short-term project workers without the administrative burden of permanent hires.",
+      "icon": "FileText",
+      "image": "/industry-manufacturing.png",
+      "features": [
+        "Project-specific staffing arrangements",
+        "Flexible contract duration",
+        "Seamless team integration",
+        "Statutory compliance fully managed"
+      ],
+      "benefits": [
+        "No long-term payroll commitments",
+        "Manage workforce peaks with ease",
+        "Focus on core business operations",
+        "Replacement workers on standby"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Flexible Staffing for Modern Business Challenges"
+        },
+        {
+          "type": "paragraph",
+          "text": "Static workforce models are often ill-suited for businesses with fluctuating demand. Our contract-based manpower solutions offer the flexibility you need to scale your team up or down based on specific project timelines or seasonal requirements."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Contract Management Benefits",
+          "items": [
+            "Zero long-term liability for project-based staffing.",
+            "Standardized recruitment process for rapid onboarding.",
+            "Seamless transition between contract terms."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "KDS International takes full responsibility for the workforce during the contract period, ensuring performance standards are met and all statutory requirements are fulfilled without any administrative overhead for you."
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "semi-skilled-manpower",
+      "title": "Semi-Skilled Manpower",
+      "shortDesc": "Semi-skilled workers for packaging, logistics, production support and assembly-line operations.",
+      "description": "Semi-skilled manpower is essential for packaging, production logistics, and industrial operations that require basic technical understanding with some monitoring. Our semi-skilled workforce bridges the gap between unskilled labour and fully specialised tradespeople — ideal for assembly lines, material handling, and quality support.",
+      "icon": "Settings",
+      "image": "/skills-scan.png",
+      "features": [
+        "Basic machine operation knowledge",
+        "Production and packaging line support",
+        "Quality checking assistance",
+        "Inventory and warehouse operations"
+      ],
+      "benefits": [
+        "Quick to deploy and integrate",
+        "Cost-effective skilled alternative",
+        "Reduces supervisory burden",
+        "Adaptable to multiple roles"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Semi-Skilled Workforce: The Operational Bridge"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our semi-skilled manpower services provide the perfect balance between general labor and specialized technicians. These workers are trained in basic machine operation, assembly line processes, and packaging logistics, ensuring smooth workflow transitions across your industrial floors."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Semi-Skilled Competencies",
+          "items": [
+            "Proficient in basic assembly and packaging line operation.",
+            "Trained for quality checking and production support.",
+            "Strong understanding of workplace safety and coordination."
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "industrial-manpower",
+      "title": "Industrial Manpower Services",
+      "shortDesc": "Specialised industrial workforce for factories, plants and heavy manufacturing operations.",
+      "description": "We provide skilled and semi-skilled industrial manpower to ensure smooth factory and plant operations with maximum productivity. Our industrial workforce is trained to meet industry standards in safety, quality, and efficiency — helping your business maintain operational continuity in even the most demanding environments.",
+      "icon": "Factory",
+      "image": "/industry-auto.png",
+      "features": [
+        "Factory floor and plant operations",
+        "Safety protocol trained workforce",
+        "Machine operation and maintenance",
+        "Production supervision and quality control"
+      ],
+      "benefits": [
+        "Zero disruption to production",
+        "Industry-standard safety compliance",
+        "Proven track record in manufacturing",
+        "24/7 support for workforce needs"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Specialized Industrial Workforce for High-Performance Plants"
+        },
+        {
+          "type": "paragraph",
+          "text": "Operating a modern factory or manufacturing plant demands a workforce that understands technical complexity and safety protocols. KDS International supplies industrial manpower that is specifically trained for the demands of high-output environments."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Industrial Deployment Expertise",
+          "items": [
+            "Specialized machine operation and maintenance experience.",
+            "Adherence to stringent industrial safety and environmental standards.",
+            "24/7 workforce availability for multi-shift operations."
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "labour-manpower",
+      "title": "Labour Manpower Services",
+      "shortDesc": "Reliable, hardworking and experienced workers for short-term projects or long-term assignments.",
+      "description": "Our labour manpower solutions offer reliable, hardworking, and experienced workers for various sectors. Whether for short-term project requirements or long-term assignments, we supply the right people at the right time — ensuring your operations continue without disruption.",
+      "icon": "HardHat",
+      "image": "/hero-bg.png",
+      "features": [
+        "Versatile workforce for any sector",
+        "Construction and site labour",
+        "General helpers and support staff",
+        "Event and project labour supply"
+      ],
+      "benefits": [
+        "Flexible on-demand deployment",
+        "No recruitment overhead",
+        "Experienced in high-pressure environments",
+        "Compliance and welfare guaranteed"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Project-Driven Labour Manpower Solutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether it's construction projects, event logistics, or general site upkeep, our labour manpower services provide the hardworking individuals you need to get the job done. We specialize in supplying labor teams that are trained for versatility and reliability under high-pressure timelines."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Labour Management Model",
+          "items": [
+            "Scalable workforce for project-based demands.",
+            "Zero recruitment risk—we manage all onboarding processes.",
+            "Experienced on-site supervision for large labor teams."
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "state": "delhi",
+          "stateLabel": "Delhi",
+          "cities": [
+            {
+              "slug": "new-delhi",
+              "label": "New Delhi"
+            },
+            {
+              "slug": "laxmi-nagar",
+              "label": "Laxmi Nagar"
+            },
+            {
+              "slug": "rohini",
+              "label": "Rohini"
+            },
+            {
+              "slug": "dwarka",
+              "label": "Dwarka"
+            },
+            {
+              "slug": "janakpuri",
+              "label": "Janakpuri"
+            }
+          ]
+        },
+        {
+          "state": "uttar-pradesh",
+          "stateLabel": "Uttar Pradesh",
+          "cities": [
+            {
+              "slug": "noida",
+              "label": "Noida"
+            },
+            {
+              "slug": "greater-noida",
+              "label": "Greater Noida"
+            },
+            {
+              "slug": "ghaziabad",
+              "label": "Ghaziabad"
+            }
+          ]
+        },
+        {
+          "state": "haryana",
+          "stateLabel": "Haryana",
+          "cities": [
+            {
+              "slug": "gurugram",
+              "label": "Gurugram"
+            },
+            {
+              "slug": "faridabad",
+              "label": "Faridabad"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subServices": [
+    {
+      "id": 1,
+      "slug": "skilled-manpower-aksah",
+      "title": "Skilled Manpower Services aksah",
+      "shortDesc": "Expert skilled workforce for specialised industrial roles — fitters, machine operators, technicians and more.",
+      "description": "Our skilled manpower services cover a wide range of specialised industrial roles. We supply trained and experienced fitters, electricians, machine operators, supervisors, and technical staff who meet the highest industry standards. Every worker is vetted, background-checked, and ready to deploy.",
+      "icon": "Wrench",
+      "image": "/skills-arm.png",
+      "features": [
+        "Verified skilled tradespeople and technicians",
+        "Background-screened and reference-checked workers",
+        "Industry-specific trained professionals",
+        "Short-term and long-term placement available"
+      ],
+      "benefits": [
+        "Reduce recruitment time by up to 70%",
+        "No overhead training costs",
+        "Scalable workforce as per demand",
+        "PF/ESIC compliance fully managed"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "The Precision Advantage in Technical Staffing"
+        },
+        {
+          "type": "paragraph",
+          "text": "In today's highly competitive industrial landscape, the quality of your skilled workforce directly correlates with your operational output. At KDS International, we don't just supply workers; we provide precision-matched talent that integrates seamlessly into your production environment."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Skilled Vetting Process",
+          "items": [
+            "Advanced technical skill assessment and practical testing.",
+            "Complete background verification and reference checks.",
+            "Documentation audit (PF, ESIC, and certification validity)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Our fitters, electricians, and machine operators are trained to handle modern industrial equipment with care and efficiency, reducing downtime and maintaining high safety standards across your facility."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "unskilled-manpower",
+      "title": "Unskilled Manpower Services",
+      "shortDesc": "Reliable general-purpose labour for support, loading, cleaning and routine industrial tasks.",
+      "description": "We supply well-trained, disciplined, and hardworking unskilled workers for general-purpose, labour-intensive processes. From loading and unloading to housekeeping and cleaning support, our unskilled manpower is ready for deployment with a committed attitude towards routine and support activities.",
+      "icon": "Users",
+      "image": "/industry-logistics.png",
+      "features": [
+        "Disciplined and punctual workforce",
+        "Trained in basic safety protocols",
+        "Available for daily or contract basis",
+        "Suitable for any sector"
+      ],
+      "benefits": [
+        "Immediate availability within 24 hours",
+        "Cost-effective workforce solution",
+        "Reduces permanent headcount burden",
+        "Full payroll and compliance support"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Reliable Labor Support for Industrial Continuity"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every large-scale operation requires a reliable backbone of general-purpose labor. Our unskilled manpower services are designed to provide you with disciplined, hardworking, and well-managed workers for all your support activities."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Why Our Labor Teams Stand Out",
+          "items": [
+            "Strict adherence to shift timings and workplace discipline.",
+            "Basic safety training provided prior to deployment.",
+            "Rapid mobilization for loading/unloading and seasonal peaks."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We handle the entire administrative burden—from recruitment and onboarding to monthly payroll and compliance—allowing your core team to focus on production and growth."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "contract-manpower",
+      "title": "Contract Based Manpower",
+      "shortDesc": "Flexible contract staffing solutions — hire the right people for exactly as long as you need them.",
+      "description": "We provide reliable and professional contract-based manpower solutions designed for project-specific or seasonal requirements. Our trained staff ensures seamless integration with your existing teams. Ideal for businesses that need short-term project workers without the administrative burden of permanent hires.",
+      "icon": "FileText",
+      "image": "/industry-manufacturing.png",
+      "features": [
+        "Project-specific staffing arrangements",
+        "Flexible contract duration",
+        "Seamless team integration",
+        "Statutory compliance fully managed"
+      ],
+      "benefits": [
+        "No long-term payroll commitments",
+        "Manage workforce peaks with ease",
+        "Focus on core business operations",
+        "Replacement workers on standby"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Flexible Staffing for Modern Business Challenges"
+        },
+        {
+          "type": "paragraph",
+          "text": "Static workforce models are often ill-suited for businesses with fluctuating demand. Our contract-based manpower solutions offer the flexibility you need to scale your team up or down based on specific project timelines or seasonal requirements."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Contract Management Benefits",
+          "items": [
+            "Zero long-term liability for project-based staffing.",
+            "Standardized recruitment process for rapid onboarding.",
+            "Seamless transition between contract terms."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "KDS International takes full responsibility for the workforce during the contract period, ensuring performance standards are met and all statutory requirements are fulfilled without any administrative overhead for you."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "semi-skilled-manpower",
+      "title": "Semi-Skilled Manpower",
+      "shortDesc": "Semi-skilled workers for packaging, logistics, production support and assembly-line operations.",
+      "description": "Semi-skilled manpower is essential for packaging, production logistics, and industrial operations that require basic technical understanding with some monitoring. Our semi-skilled workforce bridges the gap between unskilled labour and fully specialised tradespeople — ideal for assembly lines, material handling, and quality support.",
+      "icon": "Settings",
+      "image": "/skills-scan.png",
+      "features": [
+        "Basic machine operation knowledge",
+        "Production and packaging line support",
+        "Quality checking assistance",
+        "Inventory and warehouse operations"
+      ],
+      "benefits": [
+        "Quick to deploy and integrate",
+        "Cost-effective skilled alternative",
+        "Reduces supervisory burden",
+        "Adaptable to multiple roles"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Semi-Skilled Workforce: The Operational Bridge"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our semi-skilled manpower services provide the perfect balance between general labor and specialized technicians. These workers are trained in basic machine operation, assembly line processes, and packaging logistics, ensuring smooth workflow transitions across your industrial floors."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Semi-Skilled Competencies",
+          "items": [
+            "Proficient in basic assembly and packaging line operation.",
+            "Trained for quality checking and production support.",
+            "Strong understanding of workplace safety and coordination."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "industrial-manpower",
+      "title": "Industrial Manpower Services",
+      "shortDesc": "Specialised industrial workforce for factories, plants and heavy manufacturing operations.",
+      "description": "We provide skilled and semi-skilled industrial manpower to ensure smooth factory and plant operations with maximum productivity. Our industrial workforce is trained to meet industry standards in safety, quality, and efficiency — helping your business maintain operational continuity in even the most demanding environments.",
+      "icon": "Factory",
+      "image": "/industry-auto.png",
+      "features": [
+        "Factory floor and plant operations",
+        "Safety protocol trained workforce",
+        "Machine operation and maintenance",
+        "Production supervision and quality control"
+      ],
+      "benefits": [
+        "Zero disruption to production",
+        "Industry-standard safety compliance",
+        "Proven track record in manufacturing",
+        "24/7 support for workforce needs"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Specialized Industrial Workforce for High-Performance Plants"
+        },
+        {
+          "type": "paragraph",
+          "text": "Operating a modern factory or manufacturing plant demands a workforce that understands technical complexity and safety protocols. KDS International supplies industrial manpower that is specifically trained for the demands of high-output environments."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Industrial Deployment Expertise",
+          "items": [
+            "Specialized machine operation and maintenance experience.",
+            "Adherence to stringent industrial safety and environmental standards.",
+            "24/7 workforce availability for multi-shift operations."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "labour-manpower",
+      "title": "Labour Manpower Services",
+      "shortDesc": "Reliable, hardworking and experienced workers for short-term projects or long-term assignments.",
+      "description": "Our labour manpower solutions offer reliable, hardworking, and experienced workers for various sectors. Whether for short-term project requirements or long-term assignments, we supply the right people at the right time — ensuring your operations continue without disruption.",
+      "icon": "HardHat",
+      "image": "/hero-bg.png",
+      "features": [
+        "Versatile workforce for any sector",
+        "Construction and site labour",
+        "General helpers and support staff",
+        "Event and project labour supply"
+      ],
+      "benefits": [
+        "Flexible on-demand deployment",
+        "No recruitment overhead",
+        "Experienced in high-pressure environments",
+        "Compliance and welfare guaranteed"
+      ],
+      "content": [
+        {
+          "type": "heading",
+          "text": "Project-Driven Labour Manpower Solutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Whether it's construction projects, event logistics, or general site upkeep, our labour manpower services provide the hardworking individuals you need to get the job done. We specialize in supplying labor teams that are trained for versatility and reliability under high-pressure timelines."
+        },
+        {
+          "type": "takeaways",
+          "heading": "Our Labour Management Model",
+          "items": [
+            "Scalable workforce for project-based demands.",
+            "Zero recruitment risk—we manage all onboarding processes.",
+            "Experienced on-site supervision for large labor teams."
+          ]
+        }
+      ]
+    }
+  ],
+  "industries": [
+    {
+      "id": 1,
+      "name": "Manufacturing & Production",
+      "img": "https://www.kdsinternational.org/wp-content/uploads/2024/09/2150368712.jpg",
+      "stat": "Factory",
+      "desc": "Complete manpower services for manufacturing plants to avoid any possible interruptions. We prepare all personnel trained for highly demanding industrial environments — from machine operators and fitters to helpers and maintenance staff, production supervisors and quality controllers.",
+      "slug": "automotive"
+    },
+    {
+      "id": 2,
+      "name": "Warehousing, Logistics & E-commerce",
+      "img": "https://www.kdsinternational.org/wp-content/uploads/2024/09/2150368712.jpg",
+      "stat": "Warehouse",
+      "desc": "The logistics industry requires speed, discipline, and accuracy. Our manpower teams handle packaging, loading and unloading, inventory management, and dispatch. Scale warehouse teams during peak seasons without worrying about recruitment or training."
+    },
+    {
+      "id": 3,
+      "name": "Construction & Infrastructure",
+      "img": "/industry-auto.png",
+      "stat": "Building2",
+      "desc": "KDS International provides qualified labour for every type of construction and civil infrastructure project. Our staff are trained in safety protocols, material handling, and basic site operations — minimising accident risks and ensuring timely project completion."
+    },
+    {
+      "id": 4,
+      "name": "Hospitality & Hotel Sector",
+      "img": "/skills-scan.png",
+      "stat": "Hotel",
+      "desc": "A complete employment solution for hotels, restaurants, and catering companies. Housekeeping staff, kitchen assistants, or front office support — we provide personnel that are trained with the right approach and presentation skills for the hospitality sector."
+    },
+    {
+      "id": 5,
+      "name": "Healthcare & Hospitals",
+      "img": "/skills-arm.png",
+      "stat": "HeartPulse",
+      "desc": "Reliability and discipline are most crucial in healthcare. We supply semi-skilled and unskilled manpower for hospitals, clinics, and healthcare facilities — trained for basic patient handling, sanitation, and infection control measures."
+    },
+    {
+      "id": 6,
+      "name": "Corporate Offices & IT Parks",
+      "img": "/industry-manufacturing.png",
+      "stat": "BriefcaseBusiness",
+      "desc": "Corporate clients rely on our manpower outsourcing for office assistance, housekeeping, and facility management. Reliable and discreet staff handle administrative and support tasks to maintain a clean and productive office environment."
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "title": "Time-Efficient Manpower Response",
+      "desc": "Extensive database of workers who can be mobilised within 24-48 hours for any project or industry requirement.",
+      "icon": "Clock"
+    },
+    {
+      "title": "All Categories of Labour Covered",
+      "desc": "From unskilled labour supply to skilled manpower services — everything under one roof with one reliable partner.",
+      "icon": "Users"
+    },
+    {
+      "title": "Compliance & Transparency",
+      "desc": "Total monitoring of all statutory obligations — PF, ESIC, and wage documentation — with full transparency and auditability.",
+      "icon": "Shield"
+    },
+    {
+      "title": "Backup & Replacement Ready",
+      "desc": "24/7 standby teams of workers and supervisors ensure your operations continue uninterrupted without delays.",
+      "icon": "RefreshCw"
+    },
+    {
+      "title": "Deep Industrial Expertise",
+      "desc": "We understand the dynamics across several industries and provide well-trained, reliable manpower that can perform.",
+      "icon": "Award"
+    },
+    {
+      "title": "Value for Money",
+      "desc": "Best-in-class manpower outsourcing at competitive rates — reducing your recruitment, training, and compliance costs.",
+      "icon": "TrendingDown"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Large-Scale Factory Manpower — Auto Parts Manufacturer",
+      "slug": "Large-Scale-Factory-Manpower—Auto-Parts-Manufacturer",
+      "category": "Industrial",
+      "image": "/industry-manufacturing.png",
+      "description": "Supplied 150+ skilled workers including fitters, machine operators, and production supervisors for a major auto parts manufacturer in Delhi NCR — fully deployed within 72 hours."
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Warehouse Staffing — Seasonal Peak",
+      "slug": "E-commerce-Warehouse-Staffing—Seasonal-Peak",
+      "category": "Logistics",
+      "image": "/industry-logistics.png",
+      "description": "Scaled a warehouse team from 30 to 200 workers during festive season peak for a leading e-commerce company. Managed all compliance, attendance, and payroll in-house."
+    },
+    {
+      "id": 3,
+      "title": "Hospital Support Staff — Healthcare Facility",
+      "slug": "Hospital-Support-Staff—Healthcare-Facility",
+      "category": "Healthcare",
+      "image": "/industry-auto.png",
+      "description": "Placed 60+ trained support staff — ward boys, sanitation workers, and patient attendants — for a 300-bed hospital in Delhi, maintaining 100% attendance compliance."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "role": "HR Manager, AutoParts India Pvt. Ltd.",
+      "content": "KDS International supplied us with 120 skilled workers within 48 hours when our production line needed urgent support. Outstanding reliability and compliance management.",
+      "avatar": "/images/avatars/avatar1.jpg",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "role": "Operations Director, QuickLog Warehousing",
+      "content": "We have been working with KDS for 3 years for our warehouse staffing. They always deliver on time, with full compliance on PF and ESIC. Highly recommended.",
+      "avatar": "/images/avatars/avatar2.jpg",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Dr. Anil Mehta",
+      "role": "Administrative Head, City Medical Centre",
+      "content": "Sourcing trained support staff for a healthcare environment is challenging. KDS International understood our requirements and delivered trained, disciplined workers promptly.",
+      "avatar": "/images/avatars/avatar3.jpg",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Rajesh Kumar",
+      "role": "HR Manager, AutoParts India Pvt. Ltd.",
+      "content": "KDS International supplied us with 120 skilled workers within 48 hours when our production line needed urgent support. Outstanding reliability and compliance management.",
+      "avatar": "/images/avatars/avatar1.jpg",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Priya Sharma",
+      "role": "Operations Director, QuickLog Warehousing",
+      "content": "We have been working with KDS for 3 years for our warehouse staffing. They always deliver on time, with full compliance on PF and ESIC. Highly recommended.",
+      "avatar": "/images/avatars/avatar2.jpg",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Dr. Anil Mehta",
+      "role": "Administrative Head, City Medical Centre",
+      "content": "Sourcing trained support staff for a healthcare environment is challenging. KDS International understood our requirements and delivered trained, disciplined workers promptly.",
+      "avatar": "/images/avatars/avatar3.jpg",
+      "rating": 5
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "slug": "future-of-global-supply-chains",
+      "title": "Best Manpower Services in Delhi: What to Look For",
+      "excerpt": "Finding the right manpower provider in Delhi can make or break your workforce efficiency. Here's a complete guide to evaluating manpower agencies.",
+      "image": "/industry-logistics.png",
+      "date": "2025-12-15",
+      "author": "KDS International Team",
+      "category": "Industry Insights"
+    },
+    {
+      "id": 2,
+      "slug": "precision-manufacturing-trends",
+      "title": "How to Manage Workforce Compliance: PF, ESIC & Labour Law",
+      "excerpt": "Compliance with PF, ESIC, and labour regulations is critical for any business. Here's how outsourcing manpower can eliminate compliance headaches.",
+      "image": "/skills-arm.png",
+      "date": "2025-11-28",
+      "author": "KDS International Team",
+      "category": "Compliance"
+    },
+    {
+      "id": 3,
+      "slug": "quality-inspection-best-practices",
+      "title": "Seasonal Staffing Strategies for Warehousing & E-Commerce",
+      "excerpt": "Managing sudden workforce surges during peak seasons is a major challenge. Discover how contract manpower services offer the best solution.",
+      "image": "/skills-scan.png",
+      "date": "2025-10-10",
+      "author": "KDS International Team",
+      "category": "Staffing Strategy"
+    },
+    {
+      "id": 4,
+      "slug": "future-of-global-supply-chains",
+      "title": "Best Manpower Services in Delhi: What to Look For",
+      "excerpt": "Finding the right manpower provider in Delhi can make or break your workforce efficiency. Here's a complete guide to evaluating manpower agencies.",
+      "image": "/industry-logistics.png",
+      "date": "2025-12-15",
+      "author": "KDS International Team",
+      "category": "Industry Insights"
+    },
+    {
+      "id": 5,
+      "slug": "precision-manufacturing-trends",
+      "title": "How to Manage Workforce Compliance: PF, ESIC & Labour Law",
+      "excerpt": "Compliance with PF, ESIC, and labour regulations is critical for any business. Here's how outsourcing manpower can eliminate compliance headaches.",
+      "image": "/skills-arm.png",
+      "date": "2025-11-28",
+      "author": "KDS International Team",
+      "category": "Compliance"
+    },
+    {
+      "id": 6,
+      "slug": "quality-inspection-best-practices",
+      "title": "Seasonal Staffing Strategies for Warehousing & E-Commerce",
+      "excerpt": "Managing sudden workforce surges during peak seasons is a major challenge. Discover how contract manpower services offer the best solution.",
+      "image": "/skills-scan.png",
+      "date": "2025-10-10",
+      "author": "KDS International Team",
+      "category": "Staffing Strategy"
+    },
+    {
+      "id": 7,
+      "slug": "future-of-global-supply-chains",
+      "title": "Best Manpower Services in Delhi: What to Look For",
+      "excerpt": "Finding the right manpower provider in Delhi can make or break your workforce efficiency. Here's a complete guide to evaluating manpower agencies.",
+      "image": "/industry-logistics.png",
+      "date": "2025-12-15",
+      "author": "KDS International Team",
+      "category": "Industry Insights"
+    },
+    {
+      "id": 8,
+      "slug": "precision-manufacturing-trends",
+      "title": "How to Manage Workforce Compliance: PF, ESIC & Labour Law",
+      "excerpt": "Compliance with PF, ESIC, and labour regulations is critical for any business. Here's how outsourcing manpower can eliminate compliance headaches.",
+      "image": "/skills-arm.png",
+      "date": "2025-11-28",
+      "author": "KDS International Team",
+      "category": "Compliance"
+    },
+    {
+      "id": 9,
+      "slug": "quality-inspection-best-practices",
+      "title": "Seasonal Staffing Strategies for Warehousing & E-Commerce",
+      "excerpt": "Managing sudden workforce surges during peak seasons is a major challenge. Discover how contract manpower services offer the best solution.",
+      "image": "/skills-scan.png",
+      "date": "2025-10-10",
+      "author": "KDS International Team",
+      "category": "Staffing Strategy"
+    },
+    {
+      "id": 10,
+      "slug": "future-of-global-supply-chains",
+      "title": "Best Manpower Services in Delhi: What to Look For",
+      "excerpt": "Finding the right manpower provider in Delhi can make or break your workforce efficiency. Here's a complete guide to evaluating manpower agencies.",
+      "image": "/industry-logistics.png",
+      "date": "2025-12-15",
+      "author": "KDS International Team",
+      "category": "Industry Insights"
+    },
+    {
+      "id": 11,
+      "slug": "precision-manufacturing-trends",
+      "title": "How to Manage Workforce Compliance: PF, ESIC & Labour Law",
+      "excerpt": "Compliance with PF, ESIC, and labour regulations is critical for any business. Here's how outsourcing manpower can eliminate compliance headaches.",
+      "image": "/skills-arm.png",
+      "date": "2025-11-28",
+      "author": "KDS International Team",
+      "category": "Compliance"
+    },
+    {
+      "id": 12,
+      "slug": "quality-inspection-best-practices",
+      "title": "Seasonal Staffing Strategies for Warehousing & E-Commerce",
+      "excerpt": "Managing sudden workforce surges during peak seasons is a major challenge. Discover how contract manpower services offer the best solution.",
+      "image": "/skills-scan.png",
+      "date": "2025-10-10",
+      "author": "KDS International Team",
+      "category": "Staffing Strategy"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Managing Director",
+      "role": "Founder & MD, KDS International",
+      "bio": "Leading the company since inception with a passion for connecting businesses with the right workforce solutions across Delhi NCR.",
+      "image": "/images/team/ceo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Operations Head",
+      "role": "Head of Operations",
+      "bio": "Expert in manpower logistics, compliance management, and workforce planning across industrial and corporate sectors.",
+      "image": "/images/team/coo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Compliance Manager",
+      "role": "HR & Compliance Manager",
+      "bio": "Ensures all statutory requirements including PF, ESIC, and labour law compliance are met with complete transparency.",
+      "image": "/images/team/qa-head.jpg"
+    }
+  ],
+  "certificate": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Vc9MsWmp/page-1-thumb-large-4.webp"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/Vc9MsWmp/page-1-thumb-large-4.webp"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/Vc9MsWmp/page-1-thumb-large-4.webp"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/Vc9MsWmp/page-1-thumb-large-4.webp"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/Vc9MsWmp/page-1-thumb-large-4.webp"
+    }
+  ],
+  "aboutPage": {
+    "mission": "To be Delhi NCR's most trusted manpower solutions partner — connecting skilled, semi-skilled, and unskilled workers with businesses that need reliable, compliant, and performance-driven staffing.",
+    "vision": "To build a world where every business has access to the right workforce at the right time, with zero compliance burden and maximum operational efficiency.",
+    "history": "KDS International Pvt. Ltd. is an established manpower provider located in Laxmi Nagar, Delhi. Over the years, the company has demonstrated its dependability by supplying organisations of all sizes with a workforce that is of high character, skill, and professionalism. From temporary manpower to staff outsourcing and workforce supply, we cover all manpower requirements under one roof.",
+    "whyUs": [
+      {
+        "title": "24-48 Hour Deployment",
+        "desc": "Mobilise workers within 24-48 hours for any project requirement through our extensive talent database."
+      },
+      {
+        "title": "Full Compliance Management",
+        "desc": "PF, ESIC, wage documentation and all statutory requirements fully managed and auditable."
+      },
+      {
+        "title": "All Labour Categories",
+        "desc": "Skilled, semi-skilled, unskilled, contract, industrial, and labour — all manpower types under one roof."
+      },
+      {
+        "title": "Zero Disruption Guarantee",
+        "desc": "Standby teams and backup workers ensure your operations never slow down."
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "lastUpdated": "2025-01-01",
+    "sections": [
+      {
+        "title": "Introduction",
+        "content": [
+          "KDS International Pvt. Ltd. ('we', 'our', or 'us') is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our manpower services. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.",
+          "Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.",
+          "Your privacy is important to us, and we are dedicated to protecting your personal information and being transparent about how we use it.",
+          "Your privacy is important to us, and we are dedicated to protecting your personal information and being transparent about how we use it."
+        ]
+      },
+      {
+        "title": "Information We Collect",
+        "content": [
+          "We may collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our services, when you participate in activities on the website, or otherwise when you contact us. The personal information we collect may include:",
+          "Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.",
+          "Your privacy is important to us, and we are dedicated to protecting your personal information and being transparent about how we use it.",
+          "Your privacy is important to us, and we are dedicated to protecting your personal information and being transparent about how we use it."
+        ],
+        "listItems": [
+          "Name and contact details (email address, phone number, company name)",
+          "Professional information (job title, industry, company size)",
+          "Workforce requirements and staffing needs",
+          "Communication preferences",
+          "Identification documents for employment verification",
+          "Bank account details for payroll processing (for placed workers)"
+        ]
+      },
+      {
+        "title": "How We Use Your Information",
+        "content": "We use the information we collect or receive:",
+        "listItems": [
+          "To facilitate manpower services and workforce deployment",
+          "To process payroll and manage statutory compliance (PF, ESIC, etc.)",
+          "To send you updates about our services and industry insights",
+          "To respond to your inquiries and provide customer support",
+          "To improve our website and service offerings",
+          "To comply with legal obligations and regulatory requirements",
+          "To protect against fraud and unauthorized transactions"
+        ]
+      },
+      {
+        "title": "Legal Basis for Processing",
+        "content": "We process your personal information based on the following legal grounds:",
+        "listItems": [
+          "Contract performance: To fulfill our manpower service agreements",
+          "Legal compliance: To meet statutory requirements (PF, ESIC, labour laws)",
+          "Legitimate interests: To improve our services and prevent fraud",
+          "Consent: When you have explicitly agreed to receive marketing communications"
+        ]
+      },
+      {
+        "title": "Information Sharing and Disclosure",
+        "content": "We may share your information with:",
+        "listItems": [
+          "Government authorities for statutory compliance (PF, ESIC departments)",
+          "Banking partners for payroll processing",
+          "Legal advisors for compliance and dispute resolution",
+          "Service providers who assist in website operations and business functions",
+          "Potential business partners during mergers or acquisitions"
+        ],
+        "note": "We do not sell, rent, or trade your personal information to third parties for marketing purposes."
+      },
+      {
+        "title": "Data Retention",
+        "content": "We retain your personal information only for as long as necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required or permitted by law. For placed workers, we retain employment records as mandated by Indian labour laws. For client inquiries, we retain contact information for up to 5 years to maintain business relationships."
+      },
+      {
+        "title": "Your Data Protection Rights",
+        "content": "Under applicable Indian data protection laws, you have the following rights:",
+        "listItems": [
+          "Right to access your personal information",
+          "Right to correct inaccurate or incomplete data",
+          "Right to request deletion of your data (subject to legal obligations)",
+          "Right to restrict or object to processing",
+          "Right to data portability",
+          "Right to withdraw consent at any time"
+        ],
+        "note": "To exercise these rights, please contact us at privacy@kdsinternational.org"
+      },
+      {
+        "title": "Cookies and Tracking Technologies",
+        "content": "We use cookies and similar tracking technologies to enhance your browsing experience, analyze website traffic, and understand user behavior. You can control cookies through your browser settings. Third-party services like Google Analytics may also use cookies to collect anonymous usage data."
+      },
+      {
+        "title": "Data Security",
+        "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. These include:",
+        "listItems": [
+          "Encrypted data transmission (SSL/TLS)",
+          "Secure servers and access controls",
+          "Regular security assessments",
+          "Employee training on data protection",
+          "Physical security at our Delhi office"
+        ]
+      },
+      {
+        "title": "Third-Party Links",
+        "content": "Our website may contain links to third-party websites, plugins, or services. We are not responsible for the privacy practices or content of these external sites. We encourage you to review their privacy policies before providing any personal information."
+      },
+      {
+        "title": "Children's Privacy",
+        "content": "Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from minors. If we become aware that we have collected personal information from a minor without verification of parental consent, we will take steps to delete that information."
+      },
+      {
+        "title": "International Data Transfers",
+        "content": "As a company operating primarily in India, your information is generally processed and stored within India. However, some service providers may process data in other countries. We ensure appropriate safeguards are in place for any international transfers."
+      },
+      {
+        "title": "Changes to This Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time to reflect changes in our practices, legal requirements, or operational needs. We will notify you of any material changes by posting the updated policy on this page with a revised 'Last Updated' date."
+      },
+      {
+        "title": "Contact Us",
+        "content": "If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:",
+        "contactDetails": {
+          "entity": "KDS International Pvt. Ltd.",
+          "address": "D, 105, First Floor, 1/56, Lalita Park, Laxmi Nagar, Delhi, 110092",
+          "email": "privacy@kdsinternational.org",
+          "phone": "+91 9899184918",
+          "website": "https://www.kdsinternational.org"
+        }
+      }
+    ],
+    "disclaimer": "This Privacy Policy applies to all information collected through our website and during the course of our manpower services, unless otherwise specified."
+  },
+  "termsAndConditions": {
+    "lastUpdated": "2025-01-01",
+    "sections": [
+      {
+        "title": "Introduction",
+        "content": [
+          "Welcome to KDS International Pvt. Ltd. These Terms and Conditions govern your use of our website and services. By accessing our website or engaging our manpower services, you agree to be bound by these terms.",
+          "Please read these terms carefully before using our services. If you do not agree with any part of these terms, you may not access the website or use our services.",
+          "KDS International Pvt. Ltd. ('KDS', 'we', 'our', or 'us') reserves the right to modify these terms at any time without prior notice."
+        ]
+      },
+      {
+        "title": "Definitions",
+        "content": "For the purpose of these Terms and Conditions:",
+        "listItems": [
+          "'Company', 'We', 'Us', 'Our' refers to KDS International Pvt. Ltd., registered at D, 105, First Floor, 1/56, Lalita Park, Laxmi Nagar, Delhi, 110092.",
+          "'Client', 'You', 'Your' refers to the individual or organization engaging our manpower services or accessing our website.",
+          "'Services' refers to all manpower solutions including skilled, semi-skilled, unskilled, contract-based, industrial, and labour supply services.",
+          "'Workers' refers to individuals provided by KDS to clients for various roles.",
+          "'Website' refers to https://www.kdsinternational.org"
+        ]
+      },
+      {
+        "title": "Services Agreement",
+        "content": [
+          "KDS International provides manpower recruitment and staffing services to businesses across various industries.",
+          "All service engagements are subject to separate Service Agreements or Contracts that will be signed between KDS and the Client.",
+          "In the absence of a formal agreement, these Terms and Conditions shall govern the relationship.",
+          "KDS reserves the right to accept or refuse any service request at its sole discretion."
+        ]
+      },
+      {
+        "title": "Client Obligations",
+        "content": "Clients engaging our services agree to:",
+        "listItems": [
+          "Provide accurate and complete information about workforce requirements",
+          "Ensure a safe working environment for all deployed workers as per Indian labour laws",
+          "Comply with all applicable laws, regulations, and industry standards",
+          "Provide timely feedback on worker performance",
+          "Notify KDS immediately of any issues, grievances, or incidents involving deployed workers",
+          "Maintain confidentiality of all KDS proprietary information",
+          "Pay all agreed fees within the specified payment terms"
+        ]
+      },
+      {
+        "title": "KDS Obligations",
+        "content": "KDS International agrees to:",
+        "listItems": [
+          "Provide qualified workers as per client specifications and requirements",
+          "Conduct background verification and document checks on all deployed workers",
+          "Manage statutory compliance including PF, ESIC, and other applicable regulations",
+          "Provide replacement workers in case of absenteeism or non-performance as per agreement",
+          "Maintain confidentiality of client information",
+          "Ensure workers adhere to client workplace policies and code of conduct"
+        ]
+      },
+      {
+        "title": "Payment Terms",
+        "content": [
+          "All service fees are outlined in the Service Agreement or invoice provided to the client.",
+          "Payment terms are typically 30 days from invoice date unless otherwise specified.",
+          "Late payments may incur interest at 2% per month on outstanding amounts.",
+          "KDS reserves the right to suspend services for non-payment after written notice.",
+          "All applicable taxes (GST, etc.) will be charged separately as per government regulations."
+        ],
+        "note": "Special payment terms may be negotiated for long-term contracts or high-volume engagements."
+      },
+      {
+        "title": "Worker Conduct and Performance",
+        "content": [
+          "KDS takes reasonable steps to ensure workers are qualified and suitable for assigned roles.",
+          "Clients are responsible for day-to-day supervision, training, and direction of workers.",
+          "If a worker's performance is unsatisfactory, client must notify KDS in writing within 7 days.",
+          "KDS will make reasonable efforts to replace unsatisfactory workers within a reasonable timeframe.",
+          "KDS is not liable for worker misconduct, negligence, or willful acts once deployed at client premises."
+        ]
+      },
+      {
+        "title": "Compliance and Statutory Requirements",
+        "content": "KDS International ensures compliance with:",
+        "listItems": [
+          "The Contract Labour (Regulation and Abolition) Act, 1970",
+          "Employees' Provident Funds and Miscellaneous Provisions Act, 1952",
+          "Employees' State Insurance Act, 1948",
+          "Payment of Wages Act, 1936",
+          "Minimum Wages Act, 1948",
+          "Equal Remuneration Act, 1976",
+          "All applicable state-specific labour laws"
+        ],
+        "note": "Clients must ensure compliance with workplace safety laws including the Factories Act, 1948 and Building and Other Construction Workers Act, 1996 where applicable."
+      },
+      {
+        "title": "Indemnification",
+        "content": "The Client agrees to indemnify and hold harmless KDS International, its directors, employees, and agents from any claims, damages, losses, liabilities, costs, and expenses arising from:",
+        "listItems": [
+          "Client's breach of these Terms and Conditions",
+          "Client's violation of any applicable law or regulation",
+          "Client's negligence or willful misconduct",
+          "Any third-party claims related to client's use of our services",
+          "Workplace accidents or injuries occurring at client premises"
+        ]
+      },
+      {
+        "title": "Limitation of Liability",
+        "content": [
+          "To the maximum extent permitted by law, KDS International's total liability to the Client shall not exceed the total fees paid by the Client for services during the preceding 12 months.",
+          "KDS shall not be liable for any indirect, incidental, special, consequential, or punitive damages.",
+          "KDS is not responsible for any loss of business, profits, revenue, or data.",
+          "KDS does not warrant that services will be uninterrupted or error-free."
+        ]
+      },
+      {
+        "title": "Confidentiality",
+        "content": "Both parties agree to maintain confidentiality regarding:",
+        "listItems": [
+          "Business strategies, operations, and financial information",
+          "Client lists and supplier information",
+          "Technical data, processes, and intellectual property",
+          "Worker information and payroll details",
+          "Terms of service agreements and pricing"
+        ],
+        "note": "Confidentiality obligations survive termination of the service agreement for a period of 3 years."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": [
+          "All content on the KDS website including text, graphics, logos, images, and software is the property of KDS International and protected by Indian copyright laws.",
+          "Clients may not reproduce, distribute, modify, or create derivative works without prior written consent.",
+          "KDS trademarks and trade dress may not be used without express written permission."
+        ]
+      },
+      {
+        "title": "Termination",
+        "content": "Either party may terminate services:",
+        "listItems": [
+          "By providing written notice as specified in the Service Agreement",
+          "Immediately if the other party breaches material terms and fails to cure within 15 days",
+          "If the other party becomes insolvent or files for bankruptcy",
+          "For convenience with 30 days written notice (subject to applicable termination fees)"
+        ]
+      },
+      {
+        "title": "Force Majeure",
+        "content": "KDS International shall not be liable for any failure or delay in performance due to circumstances beyond its reasonable control, including but not limited to:",
+        "listItems": [
+          "Acts of God (natural disasters, earthquakes, floods, pandemics)",
+          "War, terrorism, civil unrest, or government actions",
+          "Labour strikes or industrial disputes",
+          "Power outages, internet failures, or technical disruptions",
+          "Supply chain disruptions affecting worker availability"
+        ]
+      },
+      {
+        "title": "Governing Law and Dispute Resolution",
+        "content": [
+          "These Terms and Conditions shall be governed by and construed in accordance with the laws of India.",
+          "Any disputes arising out of or in connection with these terms shall be subject to the exclusive jurisdiction of the courts in Delhi.",
+          "Before initiating legal proceedings, parties agree to attempt good-faith negotiations to resolve disputes.",
+          "If negotiations fail, disputes may be referred to arbitration in Delhi as per the Arbitration and Conciliation Act, 1996."
+        ]
+      },
+      {
+        "title": "Website Usage Terms",
+        "content": "When using our website, you agree to:",
+        "listItems": [
+          "Not use the website for any unlawful purpose",
+          "Not attempt to gain unauthorized access to our systems",
+          "Not interfere with the website's functionality or security",
+          "Not upload viruses or malicious code",
+          "Not scrape, crawl, or copy content without permission",
+          "Provide accurate information when filling forms or inquiries"
+        ]
+      },
+      {
+        "title": "Third-Party Links",
+        "content": "Our website may contain links to third-party websites. KDS International:",
+        "listItems": [
+          "Is not responsible for the content or accuracy of third-party sites",
+          "Does not endorse or warrant any products or services offered through third-party links",
+          "Is not liable for any damages arising from third-party interactions",
+          "Encourages users to review third-party terms and privacy policies"
+        ]
+      },
+      {
+        "title": "Modifications to Terms",
+        "content": [
+          "KDS International reserves the right to modify these Terms and Conditions at any time.",
+          "Changes will be effective immediately upon posting on the website.",
+          "Continued use of our services after changes constitutes acceptance of modified terms.",
+          "Clients are responsible for regularly reviewing these terms."
+        ]
+      },
+      {
+        "title": "Contact Information",
+        "content": "For questions, concerns, or notices regarding these Terms and Conditions, please contact us at:",
+        "contactDetails": {
+          "entity": "KDS International Pvt. Ltd.",
+          "address": "D, 105, First Floor, 1/56, Lalita Park, Laxmi Nagar, Delhi, 110092",
+          "email": "legal@kdsinternational.org",
+          "phone": "+91 9899184918",
+          "website": "https://www.kdsinternational.org"
+        }
+      }
+    ],
+    "disclaimer": "These Terms and Conditions constitute the entire agreement between KDS International and the Client regarding the use of our services and supersede all prior agreements and understandings."
+  },
+  "expertiseAreas": [
+    {
+      "title": "Automotive Excellence",
+      "description": "Complete supply chain solutions for major automotive manufacturers worldwide.",
+      "icon": "Truck",
+      "stats": "2M+ parts delivered",
+      "color": "from-blue-600 to-blue-400",
+      "features": [
+        "JIT Delivery",
+        "Quality Control",
+        "Global Sourcing"
+      ]
+    },
+    {
+      "title": "Electronics Manufacturing",
+      "description": "Precision components and assemblies for cutting-edge electronic devices.",
+      "icon": "Cpu",
+      "stats": "99.9% quality rate",
+      "color": "from-purple-600 to-purple-400",
+      "features": [
+        "ESD Protection",
+        "Clean Room Assembly",
+        "Component Testing"
+      ]
+    },
+    {
+      "title": "Industrial Equipment",
+      "description": "Heavy machinery and industrial equipment sourcing and logistics.",
+      "icon": "Factory",
+      "stats": "500+ clients globally",
+      "color": "from-green-600 to-green-400",
+      "features": [
+        "Heavy Lift",
+        "Installation Support",
+        "Maintenance"
+      ]
+    }
+  ],
+  "partners": [
+    {
+      "name": "TechCorp",
+      "logo": "https://i.ibb.co/pvDwggRC/a-JAox7-Gw-400x400-removebg-preview.png"
+    },
+    {
+      "name": "AutoGlobal",
+      "logo": "https://i.ibb.co/RG5MdwBG/20230105182017-removebg-preview.png"
+    },
+    {
+      "name": "ElectroMax",
+      "logo": "https://i.ibb.co/PsrnprHp/images-1.jpg"
+    },
+    {
+      "name": "IndustrialSys",
+      "logo": "https://i.ibb.co/whx5pRRw/Bharat-Petroleum-Logo-wine.png"
+    },
+    {
+      "name": "PrecisionInc",
+      "logo": "https://i.ibb.co/zHL2t7YR/images-4.jpg"
+    },
+    {
+      "name": "LogiChain",
+      "logo": "https://i.ibb.co/NnWGDvVy/images-2.png"
+    }
+  ],
+  "clientData": [
+    {
+      "sno": 1,
+      "name": "CENTRE FOR CULTURAL RESOURCES & TRAINING (CCRT DWARAKA)",
+      "city": "DELHI",
+      "department": "Cultural Resources",
+      "type": "Government"
+    },
+    {
+      "sno": 2,
+      "name": "BPCL SURAT GUJARAT",
+      "city": "GUJARAT",
+      "department": "Oil & Gas",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 3,
+      "name": "VIVEKANAND COLLEGE VIVEK VIHAR",
+      "city": "DELHI",
+      "department": "Education",
+      "type": "Educational Institution"
+    },
+    {
+      "sno": 4,
+      "name": "KOLKATA DEBTS RECOVERY TRIBUNAL NO 02 WEST BENGAL",
+      "city": "WEST BENGAL",
+      "department": "Legal",
+      "type": "Government"
+    },
+    {
+      "sno": 5,
+      "name": "HEALTH & FAMILY WELFARE DEPT. TRIPURA",
+      "city": "TRIPURA",
+      "department": "Healthcare",
+      "type": "Government"
+    },
+    {
+      "sno": 6,
+      "name": "JANAKPURI SUPER SPECIALITY HOSPITAL (DELHI)",
+      "city": "DELHI",
+      "department": "Healthcare",
+      "type": "Government"
+    },
+    {
+      "sno": 7,
+      "name": "NBCC DELHI",
+      "city": "DELHI",
+      "department": "Construction",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 8,
+      "name": "Ministry of Fisheries Animal Husbandry Dairying (SAMBALPUR ODISHA)",
+      "city": "ODISHA",
+      "department": "Agriculture",
+      "type": "Government"
+    },
+    {
+      "sno": 9,
+      "name": "Department of Military Affairs Air Force Station Pune 2wg",
+      "city": "MAHARASHTRA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 10,
+      "name": "All India Radio (Ministry of Information and Broadcasting)",
+      "city": "ODISHA",
+      "department": "Media",
+      "type": "Government"
+    },
+    {
+      "sno": 11,
+      "name": "Ministry of Skill Development and Entrepreneurship (Shram Shakti Bhawan)",
+      "city": "DELHI",
+      "department": "Skill Development",
+      "type": "Government"
+    },
+    {
+      "sno": 12,
+      "name": "National Small Industries Corporation Limited (NSIC) (NOIDA)",
+      "city": "UTTAR PRADESH",
+      "department": "Industrial Development",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 13,
+      "name": "INDIAN COUNCIL OF PHILOSOPHICAL RESEARCH TUGHLAKABAD",
+      "city": "TUGHLAKABAD",
+      "department": "Research",
+      "type": "Government"
+    },
+    {
+      "sno": 14,
+      "name": "DGRE plot no 1 sector 7 chandigarh",
+      "city": "CHANDIGARH",
+      "department": "Research",
+      "type": "Government"
+    },
+    {
+      "sno": 15,
+      "name": "Indian Air Force NASHIK",
+      "city": "MAHARASHTRA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 16,
+      "name": "Earth Sciences Secretariat (Department of Earth Sciences)",
+      "city": "DELHI",
+      "department": "Earth Sciences",
+      "type": "Government"
+    },
+    {
+      "sno": 17,
+      "name": "AIRPORTS AUTHORITY OF INDIA (AAI) BERHAMPUR",
+      "city": "WEST BENGAL",
+      "department": "Aviation",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 18,
+      "name": "ALL INDIA RADIO (AIR) DIBRUGARH",
+      "city": "ASSAM",
+      "department": "Media",
+      "type": "Government"
+    },
+    {
+      "sno": 19,
+      "name": "DEPARTMENT OF HEAVY INDUSTRY BHARAT HEAVY LIMITED BHUSAVAL",
+      "city": "MAHARASHTRA",
+      "department": "Heavy Industry",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 20,
+      "name": "DEP OF ANIMAL HUSBANDRY KRISHI BHAWAN",
+      "city": "DELHI",
+      "department": "Agriculture",
+      "type": "Government"
+    },
+    {
+      "sno": 21,
+      "name": "Education Department Delhi MANDAWALI",
+      "city": "DELHI",
+      "department": "Education",
+      "type": "Government"
+    },
+    {
+      "sno": 22,
+      "name": "Indian Air Force HQ WAC SUBROTO PARK NEW DELHI",
+      "city": "DELHI",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 23,
+      "name": "Indian Coast Guard",
+      "city": "ODISHA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 24,
+      "name": "Education Department Delhi JANAKPURI",
+      "city": "DELHI",
+      "department": "Education",
+      "type": "Government"
+    },
+    {
+      "sno": 25,
+      "name": "HO Artillery Centre Naik Road",
+      "city": "MAHARASHTRA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 26,
+      "name": "Department of Military Affairs Indian Army Station HQ Binnaguri JALPAIGURI",
+      "city": "WEST BENGAL",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 27,
+      "name": "Department of Military Affairs Indian Navy UTTAR KANNADA, KARNATAKA",
+      "city": "KARNATAKA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 28,
+      "name": "Basic Education Department Uttar Pradesh (Basti, Budaun, UP)",
+      "city": "UTTAR PRADESH",
+      "department": "Education",
+      "type": "Government"
+    },
+    {
+      "sno": 29,
+      "name": "Department of Military Affairs Indian Navy R.K. Puram New Delhi",
+      "city": "DELHI",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 30,
+      "name": "DEPARTMENT OF PROMOTION OF INDUSTRY & INTERNAL TRADE UDYOG BHAWAN",
+      "city": "DELHI",
+      "department": "Industrial Development",
+      "type": "Government"
+    },
+    {
+      "sno": 31,
+      "name": "Department of Heavy Industry ANDREW YULE and Company Limited NADIA",
+      "city": "WEST BENGAL",
+      "department": "Heavy Industry",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 32,
+      "name": "Department of Expenditure SPMU BHUBANESWAR ODISHA PFMS",
+      "city": "KHORDA, ODISHA",
+      "department": "Finance",
+      "type": "Government"
+    },
+    {
+      "sno": 33,
+      "name": "Uttar Pradesh State Industrial Development Corporation Limited (UPSIDC) KANPUR NAGAR",
+      "city": "UTTAR PRADESH",
+      "department": "Industrial Development",
+      "type": "Public Sector"
+    },
+    {
+      "sno": 34,
+      "name": "Department of Animal Husbandry Dairying and Fisheries RAJGARH (MH), MAHARASHTRA",
+      "city": "MAHARASHTRA",
+      "department": "Agriculture",
+      "type": "Government"
+    },
+    {
+      "sno": 35,
+      "name": "Seamens Employment Office Directorate General of Shipping",
+      "city": "WEST BENGAL",
+      "department": "Shipping",
+      "type": "Government"
+    },
+    {
+      "sno": 36,
+      "name": "INHS Navinna NAVAL BASE CHILIKA KHORDA, ODISHA",
+      "city": "KHORDA, ODISHA",
+      "department": "Defense",
+      "type": "Government"
+    },
+    {
+      "sno": 37,
+      "name": "Department of Posts The Chief PMG, WC Circle, Kolkata",
+      "city": "WEST BENGAL",
+      "department": "Postal Services",
+      "type": "Government"
+    },
+    {
+      "sno": 38,
+      "name": "Petroleum and Explosives Safety Organisation, JOINT CHIEF CONTROLLER EXPLOSIVE EAST CIRCLE",
+      "city": "WEST BENGAL",
+      "department": "Safety",
+      "type": "Government"
+    },
+    {
+      "sno": 39,
+      "name": "Department of Military Affairs 164 MILITARY HOSPITAL, BINNAGURI, JALPAIGURI, WEST BENGAL",
+      "city": "WEST BENGAL",
+      "department": "Healthcare",
+      "type": "Government"
+    },
+    {
+      "sno": 40,
+      "name": "All India Radio Pune AURANGABAD",
+      "city": "MAHARASHTRA",
+      "department": "Media",
+      "type": "Government"
+    },
+    {
+      "sno": 41,
+      "name": "India Meteorological Department (IMD) Patna, Bihar",
+      "city": "BIHAR",
+      "department": "Meteorology",
+      "type": "Government"
+    },
+    {
+      "sno": 42,
+      "name": "Hydrographic Survey Unit Mumbai RAIGARH (MH), MAHARASHTRA",
+      "city": "MAHARASHTRA",
+      "department": "Survey",
+      "type": "Government"
+    },
+    {
+      "sno": 43,
+      "name": "Health And Family Welfare Department Delhi ATAR SINGH HOSPITAL",
+      "city": "DELHI",
+      "department": "Healthcare",
+      "type": "Government"
+    },
+    {
+      "sno": 44,
+      "name": "KENDRIYA VIDYALAYA CRPF MUDKHED",
+      "city": "MAHARASHTRA",
+      "department": "Education",
+      "type": "Educational Institution"
+    },
+    {
+      "sno": 45,
+      "name": "Employees Provident Fund Organisation (EPFO) Udaipur, RAJASTHAN",
+      "city": "RAJASTHAN",
+      "department": "Social Security",
+      "type": "Government"
+    },
+    {
+      "sno": 46,
+      "name": "KENDRIYA VIDYALAYA SANGATHAN SOLAPUR, MAHARASHTRA",
+      "city": "MAHARASHTRA",
+      "department": "Education",
+      "type": "Educational Institution"
+    }
+  ],
+  "careerData": [
+    {
+      "sno": 1,
+      "title": "Senior Project Manager",
+      "department": "Project Management",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "10+ years",
+      "qualification": "B.Tech/BE + MBA",
+      "description": "Lead large-scale government infrastructure projects from initiation to completion",
+      "responsibilities": [
+        "Manage multiple government projects simultaneously",
+        "Coordinate with various government departments",
+        "Ensure timely delivery within budget constraints",
+        "Lead project teams and conduct regular reviews"
+      ],
+      "requirements": [
+        "10+ years of experience in project management",
+        "Experience with government/PSU projects preferred",
+        "PMP certification is a plus",
+        "Excellent communication and leadership skills"
+      ]
+    },
+    {
+      "sno": 2,
+      "title": "Site Engineer - Civil",
+      "department": "Civil Engineering",
+      "location": "MAHARASHTRA",
+      "type": "Full-time",
+      "experience": "3-5 years",
+      "qualification": "B.Tech/BE in Civil Engineering",
+      "description": "Oversee on-site construction activities for government building projects",
+      "responsibilities": [
+        "Supervise daily construction activities",
+        "Ensure quality control and safety standards",
+        "Coordinate with contractors and vendors",
+        "Maintain project documentation and reports"
+      ],
+      "requirements": [
+        "3-5 years of site experience",
+        "Knowledge of construction methods and materials",
+        "AutoCAD proficiency",
+        "Strong problem-solving skills"
+      ]
+    },
+    {
+      "sno": 3,
+      "title": "Electrical Engineer",
+      "department": "Electrical Engineering",
+      "location": "GUJARAT",
+      "type": "Full-time",
+      "experience": "4-6 years",
+      "qualification": "B.Tech/BE in Electrical Engineering",
+      "description": "Handle electrical systems design and implementation for government facilities",
+      "responsibilities": [
+        "Design electrical systems for buildings",
+        "Supervise electrical installations",
+        "Conduct site inspections and testing",
+        "Ensure compliance with safety standards"
+      ],
+      "requirements": [
+        "4-6 years of electrical engineering experience",
+        "Experience with government projects preferred",
+        "Knowledge of electrical codes and standards",
+        "AutoCAD Electrical proficiency"
+      ]
+    },
+    {
+      "sno": 4,
+      "title": "Contracts Manager",
+      "department": "Legal & Contracts",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "7-10 years",
+      "qualification": "LLB + MBA",
+      "description": "Manage contracts, tenders, and legal compliance for government projects",
+      "responsibilities": [
+        "Draft and review government contracts",
+        "Handle tender documentation and bids",
+        "Ensure legal compliance across projects",
+        "Manage contract negotiations and disputes"
+      ],
+      "requirements": [
+        "7-10 years of contracts management experience",
+        "Experience with government tenders (GeM, etc.)",
+        "Strong knowledge of contract law",
+        "Excellent negotiation skills"
+      ]
+    },
+    {
+      "sno": 5,
+      "title": "Safety Officer",
+      "department": "Safety & Compliance",
+      "location": "WEST BENGAL",
+      "type": "Full-time",
+      "experience": "3-5 years",
+      "qualification": "Diploma/B.Tech + Industrial Safety Certification",
+      "description": "Ensure workplace safety and compliance at construction sites",
+      "responsibilities": [
+        "Conduct safety audits and inspections",
+        "Implement safety protocols and training",
+        "Maintain safety documentation",
+        "Investigate incidents and recommend corrective actions"
+      ],
+      "requirements": [
+        "3-5 years of safety management experience",
+        "Certified safety professional",
+        "Knowledge of safety regulations",
+        "First aid training preferred"
+      ]
+    },
+    {
+      "sno": 6,
+      "title": "Quantity Surveyor",
+      "department": "Estimation & Billing",
+      "location": "UTTAR PRADESH",
+      "type": "Full-time",
+      "experience": "4-7 years",
+      "qualification": "B.Tech/BE in Civil Engineering",
+      "description": "Handle cost estimation, billing, and quantity takeoffs for government projects",
+      "responsibilities": [
+        "Prepare cost estimates and budgets",
+        "Handle client billing and vendor payments",
+        "Conduct quantity takeoffs",
+        "Track project costs and variations"
+      ],
+      "requirements": [
+        "4-7 years of quantity surveying experience",
+        "Experience with government projects preferred",
+        "Proficiency in estimation software",
+        "Strong analytical skills"
+      ]
+    },
+    {
+      "sno": 7,
+      "title": "Architect",
+      "department": "Architecture",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "5-8 years",
+      "qualification": "B.Arch",
+      "description": "Design and plan government buildings and facilities",
+      "responsibilities": [
+        "Create architectural designs and drawings",
+        "Coordinate with engineering teams",
+        "Ensure designs meet government standards",
+        "Obtain necessary approvals from authorities"
+      ],
+      "requirements": [
+        "5-8 years of architectural experience",
+        "Registered with Council of Architecture",
+        "Proficiency in AutoCAD, Revit, SketchUp",
+        "Experience with government projects preferred"
+      ]
+    },
+    {
+      "sno": 8,
+      "title": "HVAC Engineer",
+      "department": "Mechanical Engineering",
+      "location": "MAHARASHTRA",
+      "type": "Full-time",
+      "experience": "4-6 years",
+      "qualification": "B.Tech/BE in Mechanical Engineering",
+      "description": "Design and oversee HVAC systems for government buildings",
+      "responsibilities": [
+        "Design HVAC systems for buildings",
+        "Supervise installation and commissioning",
+        "Ensure energy efficiency and compliance",
+        "Troubleshoot HVAC issues"
+      ],
+      "requirements": [
+        "4-6 years of HVAC design experience",
+        "Knowledge of HVAC codes and standards",
+        "Proficiency in HVAC design software",
+        "Experience with hospital projects preferred"
+      ]
+    },
+    {
+      "sno": 9,
+      "title": "BIM Coordinator",
+      "department": "Digital Construction",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "3-6 years",
+      "qualification": "B.Arch/B.Tech + BIM Certification",
+      "description": "Implement and manage BIM processes for government projects",
+      "responsibilities": [
+        "Create and manage BIM models",
+        "Coordinate between different disciplines",
+        "Conduct clash detection and resolution",
+        "Train team members on BIM workflows"
+      ],
+      "requirements": [
+        "3-6 years of BIM coordination experience",
+        "Proficiency in Revit, Navisworks",
+        "BIM certification preferred",
+        "Experience with large-scale projects"
+      ]
+    },
+    {
+      "sno": 10,
+      "title": "Procurement Specialist",
+      "department": "Procurement",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "5-8 years",
+      "qualification": "MBA/Diploma in Materials Management",
+      "description": "Manage procurement of materials and services for government projects",
+      "responsibilities": [
+        "Source and evaluate vendors",
+        "Handle GeM portal procurement",
+        "Negotiate contracts and pricing",
+        "Manage inventory and supply chain"
+      ],
+      "requirements": [
+        "5-8 years of procurement experience",
+        "Experience with GeM portal",
+        "Knowledge of government procurement policies",
+        "Strong negotiation skills"
+      ]
+    },
+    {
+      "sno": 11,
+      "title": "Quality Control Engineer",
+      "department": "Quality Assurance",
+      "location": "ODISHA",
+      "type": "Full-time",
+      "experience": "4-7 years",
+      "qualification": "B.Tech/BE in Civil/Mechanical Engineering",
+      "description": "Ensure quality standards are met across all project phases",
+      "responsibilities": [
+        "Implement quality control procedures",
+        "Conduct inspections and tests",
+        "Document quality metrics and reports",
+        "Coordinate with project teams on quality issues"
+      ],
+      "requirements": [
+        "4-7 years of quality control experience",
+        "Knowledge of ISO standards",
+        "Certified quality auditor preferred",
+        "Experience with government projects"
+      ]
+    },
+    {
+      "sno": 12,
+      "title": "Environmental Engineer",
+      "department": "Environment & Sustainability",
+      "location": "MAHARASHTRA",
+      "type": "Full-time",
+      "experience": "3-6 years",
+      "qualification": "B.Tech/BE in Environmental Engineering",
+      "description": "Ensure environmental compliance and sustainability in projects",
+      "responsibilities": [
+        "Conduct environmental impact assessments",
+        "Ensure compliance with environmental regulations",
+        "Implement sustainable practices",
+        "Obtain environmental clearances"
+      ],
+      "requirements": [
+        "3-6 years of environmental engineering experience",
+        "Knowledge of environmental laws",
+        "Experience with government clearances",
+        "Green building certification preferred"
+      ]
+    },
+    {
+      "sno": 13,
+      "title": "IT Infrastructure Engineer",
+      "department": "Information Technology",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "4-7 years",
+      "qualification": "B.Tech/BE in Computer Science/IT",
+      "description": "Manage IT infrastructure for smart government buildings",
+      "responsibilities": [
+        "Design and implement network infrastructure",
+        "Manage security systems and CCTV",
+        "Handle IT equipment procurement",
+        "Provide technical support"
+      ],
+      "requirements": [
+        "4-7 years of IT infrastructure experience",
+        "Knowledge of networking and security systems",
+        "Experience with smart building technologies",
+        "Relevant certifications preferred"
+      ]
+    },
+    {
+      "sno": 14,
+      "title": "Land Surveyor",
+      "department": "Survey",
+      "location": "KARNATAKA",
+      "type": "Full-time",
+      "experience": "3-6 years",
+      "qualification": "Diploma in Surveying",
+      "description": "Conduct land surveys for government project sites",
+      "responsibilities": [
+        "Perform topographic and boundary surveys",
+        "Operate surveying equipment (Total Station, GPS)",
+        "Prepare survey reports and drawings",
+        "Coordinate with design teams"
+      ],
+      "requirements": [
+        "3-6 years of surveying experience",
+        "Proficiency with surveying equipment",
+        "Knowledge of AutoCAD Civil 3D",
+        "Survey certification preferred"
+      ]
+    },
+    {
+      "sno": 15,
+      "title": "HR Manager",
+      "department": "Human Resources",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "7-10 years",
+      "qualification": "MBA in HR",
+      "description": "Manage HR operations for a growing construction company",
+      "responsibilities": [
+        "Handle recruitment and onboarding",
+        "Manage employee relations",
+        "Implement HR policies and procedures",
+        "Coordinate training and development"
+      ],
+      "requirements": [
+        "7-10 years of HR experience",
+        "Experience in construction industry preferred",
+        "Knowledge of labor laws",
+        "Strong interpersonal skills"
+      ]
+    },
+    {
+      "sno": 16,
+      "title": "Finance Manager",
+      "department": "Finance & Accounts",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "8-12 years",
+      "qualification": "CA/ICWA/MBA Finance",
+      "description": "Oversee financial operations for government projects",
+      "responsibilities": [
+        "Manage project budgets and accounting",
+        "Handle taxation and compliance",
+        "Prepare financial reports",
+        "Coordinate with auditors"
+      ],
+      "requirements": [
+        "8-12 years of finance experience",
+        "CA qualification preferred",
+        "Experience with government accounting",
+        "Knowledge of GST and TDS"
+      ]
+    },
+    {
+      "sno": 17,
+      "title": "Business Development Manager",
+      "department": "Business Development",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "6-10 years",
+      "qualification": "MBA",
+      "description": "Identify and pursue new business opportunities in government sector",
+      "responsibilities": [
+        "Identify tender opportunities",
+        "Prepare and submit bids",
+        "Build relationships with government agencies",
+        "Track competitor activities"
+      ],
+      "requirements": [
+        "6-10 years of business development experience",
+        "Experience with government tenders",
+        "Strong networking skills",
+        "Knowledge of GeM portal"
+      ]
+    },
+    {
+      "sno": 18,
+      "title": "Junior Engineer - Civil",
+      "department": "Civil Engineering",
+      "location": "ASSAM",
+      "type": "Full-time",
+      "experience": "1-3 years",
+      "qualification": "Diploma/B.Tech in Civil Engineering",
+      "description": "Assist in on-site construction activities",
+      "responsibilities": [
+        "Assist senior engineers on site",
+        "Maintain daily progress reports",
+        "Coordinate with contractors",
+        "Conduct basic quality checks"
+      ],
+      "requirements": [
+        "1-3 years of experience",
+        "Knowledge of basic construction practices",
+        "AutoCAD knowledge preferred",
+        "Willingness to relocate"
+      ]
+    },
+    {
+      "sno": 19,
+      "title": "Store Keeper",
+      "department": "Materials Management",
+      "location": "WEST BENGAL",
+      "type": "Full-time",
+      "experience": "2-4 years",
+      "qualification": "12th/Diploma",
+      "description": "Manage material storage and inventory at site",
+      "responsibilities": [
+        "Receive and issue materials",
+        "Maintain inventory records",
+        "Conduct stock audits",
+        "Coordinate with procurement team"
+      ],
+      "requirements": [
+        "2-4 years of storekeeping experience",
+        "Knowledge of inventory software",
+        "Basic computer skills",
+        "Physical fitness for site work"
+      ]
+    },
+    {
+      "sno": 20,
+      "title": "Document Controller",
+      "department": "Administration",
+      "location": "DELHI",
+      "type": "Full-time",
+      "experience": "2-5 years",
+      "qualification": "Graduate",
+      "description": "Manage project documentation and records",
+      "responsibilities": [
+        "Maintain project files and documents",
+        "Handle correspondence and tracking",
+        "Ensure document version control",
+        "Assist with audit preparations"
+      ],
+      "requirements": [
+        "2-5 years of document control experience",
+        "Proficiency in MS Office",
+        "Knowledge of document management systems",
+        "Attention to detail"
+      ]
+    }
+  ]
+}

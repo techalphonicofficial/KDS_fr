@@ -1,0 +1,147 @@
+/* Testimonial.css */
+.testimonials-slider {
+  width: 100%;
+  overflow: hidden !important;
+  padding: 10px 5px !important;
+  margin: 0 -5px !important;
+}
+
+.testimonials-slider .swiper-wrapper {
+  display: flex !important;
+  flex-direction: row !important;
+  padding: 10px 0 30px !important;
+}
+
+.testimonials-slider .swiper-slide {
+  height: auto !important;
+  display: flex !important;
+  transition: all 0.3s ease;
+  opacity: 1 !important;
+  transform: translate3d(0, 0, 0) !important;
+}
+
+/* Ensure cards are visible and properly sized */
+.testimonials-slider .swiper-slide > div {
+  width: 100%;
+  min-height: 280px;
+  display: flex;
+  flex-direction: column;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Fix for any CSS conflicts */
+.testimonials-slider .swiper-slide {
+  flex-shrink: 0 !important;
+  width: calc(33.333% - 16px) !important; /* Fallback for 3 slides */
+}
+
+@media (max-width: 1024px) {
+  .testimonials-slider .swiper-slide {
+    width: calc(50% - 10px) !important; /* Fallback for 2 slides */
+  }
+}
+
+@media (max-width: 640px) {
+  .testimonials-slider .swiper-slide {
+    width: 100% !important; /* Fallback for 1 slide */
+  }
+}
+
+/* Pagination styles */
+.testimonials-slider .swiper-pagination {
+  position: relative !important;
+  bottom: 0 !important;
+  margin-top: 30px;
+}
+
+.testimonials-slider .swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background: #1565c0;
+  opacity: 0.2;
+  transition: all 0.3s ease;
+}
+
+.testimonials-slider .swiper-pagination-bullet-active {
+  opacity: 1;
+  background: #1565c0;
+  width: 20px;
+  border-radius: 4px;
+}
+
+.dark .testimonials-slider .swiper-pagination-bullet {
+  background: #90caf9;
+}
+
+/* Navigation button styles */
+.swiper-nav-btn {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  opacity: 0.8;
+}
+
+.swiper-nav-btn:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.swiper-nav-btn.swiper-button-disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* Custom hover effect for cards */
+.testimonials-slider .swiper-slide-active > div {
+  transform: scale(1.02);
+  border-color: rgba(21, 101, 192, 0.3);
+  box-shadow: 0 10px 30px rgba(21, 101, 192, 0.1);
+}
+
+/* Animation for slides */
+@keyframes slideFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.testimonials-slider .swiper-slide {
+  animation: slideFadeIn 0.5s ease forwards;
+}
+
+/* Ensure proper display in all browsers */
+.testimonials-slider .swiper-container {
+  overflow: visible !important;
+}
+
+.testimonials-slider .swiper {
+  overflow: visible !important;
+}
+
+/* Fix for any flex conflicts */
+.testimonials-slider .swiper-wrapper {
+  box-sizing: border-box !important;
+}
+
+/* Ensure cards have consistent height */
+.testimonials-slider .swiper-slide {
+  align-items: stretch !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .testimonials-slider .swiper-slide {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+  
+  .testimonials-slider .swiper-wrapper {
+    gap: 16px;
+  }
+}

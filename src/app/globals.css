@@ -1,0 +1,434 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* KDS International Brand - Corporate Blue */
+  --primary-h: 213;
+  --primary-s: 76%;
+  --primary-l: 42%;
+
+  --color-primary: #1565c0;
+  --color-primary-light: #90caf9;
+  --color-primary-dark: #0d47a1;
+  --color-accent: #1976d2;
+
+  --color-dark: hsl(215, 25%, 7%);
+  --color-dark-2: hsl(215, 25%, 10%);
+  --color-dark-3: hsl(215, 25%, 15%);
+
+  --color-text: hsl(210, 38%, 93%);
+  --color-text-muted: hsl(215, 15%, 58%);
+
+  --glass-bg: rgba(10, 22, 40, 0.7);
+  --glass-border: rgba(21, 101, 192, 0.2);
+}
+
+* {
+  box-sizing: border-box;
+  /* margin: 0; */
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+@keyframes slide1 {
+  0% { opacity: 1; }
+  33% { opacity: 1; }
+  34% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+@keyframes slide2 {
+  0% { opacity: 0; }
+  33% { opacity: 0; }
+  34% { opacity: 1; }
+  66% { opacity: 1; }
+  67% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+@keyframes slide3 {
+  0% { opacity: 0; }
+  66% { opacity: 0; }
+  67% { opacity: 1; }
+  100% { opacity: 1; }
+}
+
+.animate-slide {
+  animation: slide1 12s infinite;
+}
+
+.animate-slide2 {
+  animation: slide2 12s infinite;
+}
+
+.animate-slide3 {
+  animation: slide3 12s infinite;
+}
+
+
+.dark body {
+  background-image:
+    radial-gradient(circle at 0% 0%, hsla(var(--primary-h), 100%, 50%, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 100% 100%, hsla(190, 100%, 50%, 0.03) 0%, transparent 50%);
+  background-attachment: fixed;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Outfit', sans-serif;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+/* Custom scrollbar - Premium Sleek */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--color-primary-dark), var(--color-primary));
+  border-radius: 20px;
+  border: 2px solid var(--color-dark);
+}
+
+/* Selection */
+::selection {
+  background: var(--color-primary);
+  color: white;
+}
+
+a{
+  text-decoration: none !important;
+}
+/* Smooth transitions */
+a,
+button {
+  transition: all 0.2s ease;
+}
+
+/* Container */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Section spacing */
+.section-padding {
+  padding: 8rem 0;
+}
+
+@media (max-width: 768px) {
+  .section-padding {
+    padding: 5rem 0;
+  }
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #fff 0%, var(--color-primary-light) 50%, var(--color-primary) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glassmorphism */
+.premium-glass {
+  background: var(--glass-bg);
+  /* background: #606b7cb3; */
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid var(--glass-border);
+}
+
+.premium-glass-hover {
+  transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.premium-glass-hover:hover {
+  background: rgba(21, 101, 192, 0.05);
+  border-color: rgba(21, 101, 192, 0.4);
+  box-shadow: 0 0 30px rgba(21, 101, 192, 0.15);
+  transform: translateY(-4px);
+}
+
+/* Teal border accent */
+.teal-border-left {
+  border-left: 3px solid var(--color-primary);
+}
+
+/* Animated underline */
+.animated-underline {
+  position: relative;
+}
+
+.animated-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--color-primary);
+  transition: width 0.3s ease;
+}
+
+.animated-underline:hover::after {
+  width: 100%;
+}
+
+/* Section title styles */
+.section-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+/* Dark overlay for images */
+.img-overlay {
+  position: relative;
+}
+
+.img-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(13, 17, 23, 0.2), rgba(13, 17, 23, 0.7));
+}
+
+/* Interactive Elements */
+.btn-glow {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-glow::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+.btn-glow:hover::after {
+  opacity: 1;
+}
+
+/* Section Transitions */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Animated Border Beam (Simulated via CSS) */
+.border-beam {
+  position: relative;
+}
+
+.border-beam::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  padding: 1px;
+  border-radius: inherit;
+  background: linear-gradient(90deg,
+      transparent,
+      var(--color-primary),
+      transparent);
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: border-beam 4s infinite linear;
+}
+
+@keyframes border-beam {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-blue {
+
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(21, 101, 192, 0.4);
+  }
+
+  50% {
+    box-shadow: 0 0 0 10px rgba(21, 101, 192, 0);
+  }
+}
+
+/* Hero Animations */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes pulse-soft {
+
+  0%,
+  100% {
+    opacity: 0.1;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 0.2;
+    transform: scale(1.1);
+  }
+}
+
+.glow-blob {
+  filter: blur(100px);
+  animation: pulse-soft 10s infinite;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.animate-pulse-teal {
+  animation: pulse-teal 2s infinite;
+}
+
+/* Hero Grid Overlay - Blue Brand */
+.hero-grid {
+  background-image:
+    linear-gradient(rgba(21, 101, 192, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(21, 101, 192, 0.1) 1px, transparent 1px);
+  background-size: 50px 50px;
+  mask-image: radial-gradient(circle at center, black, transparent 80%);
+}
+
+/* Hero background with blue gradient */
+.hero-bg {
+  background: linear-gradient(135deg, #06111e 0%, #0a1628 50%, #0d1f3c 100%);
+}
+/* styles/globals.css or your main CSS file */
+/* Fade-in animation for feature items */
+.animate-fadeIn {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+.light_img{
+      width: 280px;
+              height: 280px;
+              transform: translate(-25%,-36%);
+    } 
+@media screen and (max-width:1746px) {
+    .light_img{
+      width: 240px;
+      height: 240px;
+      transform: translate(-20%,-26%);
+    } 
+}
+@media screen and (max-width:1600px) {
+    .light_img{
+      width: 200px;
+      height: 200px;
+      transform: translate(-20%,-15%);
+    } 
+}
+.text-increase{
+  font-size: 3rem;
+}
+
+.why-choose-content ul {
+  list-style: disc !important;
+  list-style-position: outside !important;
+  padding-left: 30px !important;
+}
+
+.why-choose-content li {
+  display: list-item !important;
+}
+
+@media (min-width: 1024px) {
+  html {
+    font-size: 78%;
+  }
+}
+@media (min-width: 1400px) {
+  html {
+    font-size: 85%;
+  }
+}
+
+
