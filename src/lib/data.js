@@ -2,12 +2,31 @@
 // In production you'd replace this with API calls
 import { API_ENDPOINTS } from "../config/api";
 
-export async function getData(endpoint) {
+const memoryCache = new Map();
+const CACHE_TTL = 10 * 60 * 1000; // 10 minutes
 
-  const res = await fetch(endpoint, { cache: "no-store" });
-  console.log("API URL:", endpoint);
-  if (!res.ok) throw new Error("Failed to load data GFJNGHJGHJH");
-  return res.json();
+async function fetchWithCache(url) {
+  const now = Date.now();
+  if (memoryCache.has(url)) {
+    const cached = memoryCache.get(url);
+    if (now - cached.timestamp < CACHE_TTL) {
+      // console.log("CACHE HIT:", url);
+      return cached.data;
+    } else {
+      memoryCache.delete(url);
+    }
+  }
+
+  // console.log("FETCHING NEW DATA:", url);
+  const res = await fetch(url, { next: { revalidate: 600 } });
+  if (!res.ok) throw new Error(`API failed ${res.status}`);
+  const data = await res.json();
+  memoryCache.set(url, { data, timestamp: now });
+  return data;
+}
+
+export async function getData(endpoint) {
+  return await fetchWithCache(endpoint);
 }
 
 // slug function
@@ -22,23 +41,7 @@ export async function getBySlug(endpoint, slug) {
     console.log(slug)
     const url = endpoint(slug);
     console.log(url);
-    const res = await fetch(url, {
-      cache: "no-store",
-    });
-
-    console.log("======", res)
-
-    console.log("SLUG STATUS:", res.status);
-
-    if (!res.ok) {
-      throw new Error(`Slug API failed ${res.status}`);
-    }
-
-    const data = await res.json();
-
-    // console.log("SLUG RESPONSE:", data);
-
-    return data;
+    return await fetchWithCache(url);
 
   } catch (error) {
     // console.error("getBySlug error:", error);
@@ -61,15 +64,7 @@ export async function getByState(endpoint, serviceSlug, stateSlug) {
 
     console.log("STATE URL:", url);
 
-    const res = await fetch(url, {
-      cache: "no-store",
-    });
-
-    if (!res.ok) {
-      throw new Error(`State API failed ${res.status}`);
-    }
-
-    return await res.json();
+    return await fetchWithCache(url);
 
   } catch (error) {
     console.error("getByState error:", error);
@@ -92,11 +87,7 @@ export async function getByCity(endpoint, serviceSlug, stateSlug, citySlug) {
     const url = endpoint(serviceSlug, stateSlug, citySlug);
     console.log("CITY URL:", url);
 
-    const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) {
-      throw new Error(`City API failed ${res.status}`);
-    }
-    return await res.json();
+    return await fetchWithCache(url);
   } catch (error) {
     console.error("getByCity error:", error);
     throw error;
